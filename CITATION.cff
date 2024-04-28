@@ -1,0 +1,8 @@
+authors:
+  - family-names: Cunha
+    given-names: Wellington
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: Apple Freshness Classification
+date-released: "2024-04-27"
+repository-code: "https://github.com/wellingtoncunha/apple_freshness_classification"
